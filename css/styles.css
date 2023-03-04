@@ -189,6 +189,12 @@ h3{
     .font-awesome{
         font-size: 6rem;
     }
+    .p-features{
+        font-size: 1.5rem;
+    }
+    .h3-features{
+        font-size: 2rem;
+    }
 }
 
 /*Call To Action section */
